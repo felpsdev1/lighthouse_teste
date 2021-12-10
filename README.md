@@ -9,4 +9,4 @@ In the project directory, you can run:
 
 ## Lighthouse Challenge
 
-Teste de front-end development
+Teste de front-end development utlizando React para desenvolver dashboard
