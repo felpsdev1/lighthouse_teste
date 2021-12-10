@@ -1,6 +1,6 @@
 import * as React from 'react';
-import Cards from '../components/Cards';
 import Typography from '@mui/material/Typography';
+import CardList from '../components/CardList';
 
 export default function Home() {
   return (
@@ -8,7 +8,8 @@ export default function Home() {
     <Typography sx={{ marginLeft: 32, marginTop: -5 }}>
       <h1>Indicadores</h1>
     </Typography>
-    <Cards />
+    <CardList />
+    
     </>
     
 
