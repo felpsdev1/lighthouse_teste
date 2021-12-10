@@ -48,7 +48,7 @@ export default function FullWidthGrid() {
           </Card>
         </Grid>
         <Grid item xs={6} md={2.5}>
-        <Card sx={{ minWidth: 275, marginLeft: 30, width: 50 }}>
+        <Card sx={{ minWidth: 275, marginLeft: 32, width: 50 }}>
               <CardContent>
                 <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
                 <ListItemIcon>
@@ -70,7 +70,7 @@ export default function FullWidthGrid() {
             </Card>
         </Grid>
         <Grid item xs={6} md={4}>
-        <Card sx={{ minWidth: 275, marginLeft: 30, width: 50 }}>
+        <Card sx={{ minWidth: 275, marginLeft: 32, width: 50 }}>
               <CardContent>
                 <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
                 <ListItemIcon>
@@ -92,7 +92,7 @@ export default function FullWidthGrid() {
             </Card>
         </Grid>
         <Grid item xs={6} md={2}>
-        <Card sx={{ minWidth: 275, marginLeft: 5, width: 50 }}>
+        <Card sx={{ minWidth: 275, marginLeft: 6.85, width: 50 }}>
               <CardContent>
                 <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
                 <ListItemIcon>
